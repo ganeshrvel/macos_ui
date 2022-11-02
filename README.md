@@ -1,3 +1,7 @@
+# About this fork
+
+This is a fork of [GroovinChip/macos_ui](https://github.com/GroovinChip/macos_ui) which is focused on building Linux GUIs following the MacOS design system.
+
 # macos_ui
 
 Flutter widgets and themes implementing the current macOS design language.
